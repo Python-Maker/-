@@ -48,5 +48,5 @@ def spider(url,keyword):
 
 
 if __name__ == '__main__':
-    spider('https://www.jd.com/',keyword='alex大宝贝')
+    spider('https://www.jd.com/',keyword='华为手机')
 
